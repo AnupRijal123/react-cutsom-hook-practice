@@ -1,5 +1,4 @@
 import copy from 'copy-to-clipboard';
-// import { useState } from 'react';
 
 export function useCopyToClipboard() {
 
